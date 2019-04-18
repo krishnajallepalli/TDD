@@ -1,12 +1,12 @@
 ﻿using System;
-//using NUnit.Framework;
+using NUnit.Framework;
 
 namespace Conway.Library.Tests
 {
-    //[TestFixture]
-    public class NUnitTest1
+    [TestFixture]
+    public class LifeRulesTests
     {
-        //[Test]
+        [Test]
         public void TestMethod1()
         {
         }
